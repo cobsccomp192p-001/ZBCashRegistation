@@ -1,0 +1,526 @@
+D:\Bhanuka Nishendra\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\ZBCashRegistation.exe.config
+D:\Bhanuka Nishendra\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\ZBCashRegistation.exe
+D:\Bhanuka Nishendra\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\ZBCashRegistation.pdb
+D:\Bhanuka Nishendra\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Properties.Resources.resources
+D:\Bhanuka Nishendra\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.csproj.GenerateResource.Cache
+D:\Bhanuka Nishendra\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.exe
+D:\Bhanuka Nishendra\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.pdb
+D:\Bhanuka Nishendra\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.AdminLogin.resources
+D:\Bhanuka Nishendra\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\EntityFramework.dll
+D:\Bhanuka Nishendra\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bhanuka Nishendra\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\EntityFramework.xml
+D:\Bhanuka Nishendra\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bhanuka Nishendra\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Dashboard.resources
+D:\Bhanuka Nishendra\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.FoodCategories.resources
+D:\Bhanuka Nishendra\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.FoodItemsreg.resources
+D:\Bhanuka Nishendra\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Section.resources
+D:\Bhanuka Nishendra\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.CustomerRegistation.resources
+D:\Bhanuka Nishendra\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.EmployeeRegistation.resources
+D:\Bhanuka Nishendra\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.sales.resources
+D:\Bhanuka Nishendra\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.csprojResolveAssemblyReference.cache
+D:\Bhanuka Nishendra\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Billviewer.resources
+D:\Bhanuka Nishendra\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.cashInhandCashier.resources
+D:\Bhanuka Nishendra\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.salesReportView.resources
+D:\Bhanuka Nishendra\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.FoodItemReportView.resources
+D:\Bhanuka Nishendra\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.CustomerReportView.resources
+D:\Bhanuka Nishendra\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.EmployeeReportView.resources
+D:\Bhanuka Nishendra\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.CashInHandReportView.resources
+D:\Bhanuka Nishendra\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.SalesDetails.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.AdminLogin.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Billviewer.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.cashInhandCashier.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.CashInHandReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.CustomerRegistation.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.CustomerReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Dashboard.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.EmployeeRegistation.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.EmployeeReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.FoodCategories.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.FoodItemReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.FoodItemsreg.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Properties.Resources.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.sales.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.SalesDetails.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.salesReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Section.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.csproj.GenerateResource.cache
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.csproj.CoreCompileInputs.cache
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.exe
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.pdb
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\ZBCashRegistation.exe.config
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\ZBCashRegistation.exe
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\ZBCashRegistation.pdb
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.Shared.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.Web.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\EntityFramework.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\EntityFramework.SqlServer.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\AxShockwaveFlashObjects.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\ShockwaveFlashObjects.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\stdole.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\EntityFramework.xml
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\EntityFramework.SqlServer.xml
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.csproj.CopyComplete
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\ZBCashRegistation.exe.config
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\ZBCashRegistation.exe
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\ZBCashRegistation.pdb
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.Shared.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.Web.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\EntityFramework.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\EntityFramework.SqlServer.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\AxShockwaveFlashObjects.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\ShockwaveFlashObjects.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\stdole.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\EntityFramework.xml
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\EntityFramework.SqlServer.xml
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.csprojAssemblyReference.cache
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.AdminLogin.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Billviewer.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.cashInhandCashier.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.CashInHandReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.CustomerRegistation.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.CustomerReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Dashboard.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.EmployeeRegistation.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.EmployeeReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.FoodCategories.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.FoodItemReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.FoodItemsreg.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Properties.Resources.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.sales.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.SalesDetails.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.salesReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Section.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.csproj.GenerateResource.cache
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.csproj.CoreCompileInputs.cache
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.csproj.CopyComplete
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.exe
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\copies\version copy3\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.pdb
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\ZBCashRegistation.exe.config
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\ZBCashRegistation.exe
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\ZBCashRegistation.pdb
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.Shared.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.Web.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\EntityFramework.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\EntityFramework.SqlServer.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\AxShockwaveFlashObjects.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\ShockwaveFlashObjects.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\stdole.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\EntityFramework.xml
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\EntityFramework.SqlServer.xml
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.csprojAssemblyReference.cache
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.AdminLogin.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Billviewer.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.cashInhandCashier.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.CashInHandReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.CustomerRegistation.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.CustomerReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Dashboard.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.EmployeeRegistation.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.EmployeeReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.FoodCategories.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.FoodItemReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.FoodItemsreg.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Properties.Resources.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.sales.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.SalesDetails.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.salesReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Section.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.csproj.GenerateResource.cache
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.csproj.CoreCompileInputs.cache
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.csproj.CopyComplete
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.exe
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.pdb
+D:\Bhanuka Nishendra\PProject\version 4\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Bhanuka Nishendra\PProject\version 4\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\EntityFramework.dll
+D:\Bhanuka Nishendra\PProject\version 4\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bhanuka Nishendra\PProject\version 4\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\EntityFramework.xml
+D:\Bhanuka Nishendra\PProject\version 4\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bhanuka Nishendra\PProject\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.AdminLogin.resources
+D:\Bhanuka Nishendra\PProject\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Billviewer.resources
+D:\Bhanuka Nishendra\PProject\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.cashInhandCashier.resources
+D:\Bhanuka Nishendra\PProject\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.CashInHandReportView.resources
+D:\Bhanuka Nishendra\PProject\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.CustomerRegistation.resources
+D:\Bhanuka Nishendra\PProject\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.CustomerReportView.resources
+D:\Bhanuka Nishendra\PProject\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Dashboard.resources
+D:\Bhanuka Nishendra\PProject\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.EmployeeRegistation.resources
+D:\Bhanuka Nishendra\PProject\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.EmployeeReportView.resources
+D:\Bhanuka Nishendra\PProject\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.FoodCategories.resources
+D:\Bhanuka Nishendra\PProject\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.FoodItemReportView.resources
+D:\Bhanuka Nishendra\PProject\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.FoodItemsreg.resources
+D:\Bhanuka Nishendra\PProject\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Properties.Resources.resources
+D:\Bhanuka Nishendra\PProject\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.sales.resources
+D:\Bhanuka Nishendra\PProject\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.SalesDetails.resources
+D:\Bhanuka Nishendra\PProject\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.salesReportView.resources
+D:\Bhanuka Nishendra\PProject\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Section.resources
+D:\Bhanuka Nishendra\PProject\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.csproj.GenerateResource.Cache
+D:\Bhanuka Nishendra\PProject\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.exe
+D:\Bhanuka Nishendra\PProject\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.pdb
+D:\Bhanuka Nishendra\PProject\version 4\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\ZBCashRegistation.exe.config
+D:\Bhanuka Nishendra\PProject\version 4\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\ZBCashRegistation.exe
+D:\Bhanuka Nishendra\PProject\version 4\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\ZBCashRegistation.pdb
+D:\Bhanuka Nishendra\PProject\version 4\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Bhanuka Nishendra\PProject\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.SalesRow.resources
+D:\Bhanuka Nishendra\PProject\version 4\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.csprojResolveAssemblyReference.cache
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\ZBCashRegistation.exe.config
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\ZBCashRegistation.exe
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\ZBCashRegistation.pdb
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.Shared.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.Web.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\EntityFramework.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\EntityFramework.SqlServer.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\AxShockwaveFlashObjects.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\ShockwaveFlashObjects.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\stdole.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\EntityFramework.xml
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\EntityFramework.SqlServer.xml
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.AdminLogin.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Billviewer.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.cashInhandCashier.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.CashInHandReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.CustomerRegistation.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.CustomerReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Dashboard.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.EmployeeRegistation.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.EmployeeReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.FoodCategories.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.FoodItemReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.FoodItemsreg.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Properties.Resources.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.sales.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.SalesDetails.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.salesReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.SalesRow.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Section.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.csproj.GenerateResource.cache
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.csproj.CoreCompileInputs.cache
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.csproj.CopyComplete
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.exe
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 5\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.pdb
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\ZBCashRegistation.exe.config
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\ZBCashRegistation.exe
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\ZBCashRegistation.pdb
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.Shared.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.Web.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\EntityFramework.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\EntityFramework.SqlServer.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\AxShockwaveFlashObjects.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\ShockwaveFlashObjects.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\stdole.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\EntityFramework.xml
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\EntityFramework.SqlServer.xml
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.AdminLogin.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Billviewer.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.cashInhandCashier.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.CashInHandReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.CustomerDetails2.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.CustomerRegistation.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.CustomerReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Dashboard.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.EmployeeRegistation.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.EmployeeReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.FoodCategories.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.FoodItemReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.FoodItemsreg.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Properties.Resources.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.sales.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.SalesDetails.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.salesReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.SalesRow.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Section.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.csproj.GenerateResource.cache
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.csproj.CoreCompileInputs.cache
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.csproj.CopyComplete
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.exe
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.pdb
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\editiing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.ItemwiseSaleReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\ZBCashRegistation.exe.config
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\ZBCashRegistation.exe
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\ZBCashRegistation.pdb
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.Shared.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.Web.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\EntityFramework.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\EntityFramework.SqlServer.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\AxShockwaveFlashObjects.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\ShockwaveFlashObjects.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\stdole.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\EntityFramework.xml
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\EntityFramework.SqlServer.xml
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.AdminLogin.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Billviewer.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.cashInhandCashier.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.CashInHandReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.CustomerDetails2.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.CustomerRegistation.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.CustomerReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Dashboard.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.EmployeeRegistation.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.EmployeeReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.FoodCategories.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.FoodItemReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.FoodItemsreg.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.ItemwiseSaleReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Properties.Resources.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.sales.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.SalesDetails.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.salesReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.SalesRow.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Section.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.csproj.GenerateResource.cache
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.csproj.CoreCompileInputs.cache
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.csproj.CopyComplete
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.exe
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.pdb
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\ZBCashRegistation.exe.config
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\ZBCashRegistation.exe
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\ZBCashRegistation.pdb
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.Shared.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.Web.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\EntityFramework.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\EntityFramework.SqlServer.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\AxShockwaveFlashObjects.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\ShockwaveFlashObjects.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\stdole.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\EntityFramework.xml
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\EntityFramework.SqlServer.xml
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.AdminLogin.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Billviewer.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.cashInhandCashier.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.CashInHandReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.CustomerDetails2.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.CustomerRegistation.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.CustomerReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Dashboard.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.EmployeeRegistation.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.EmployeeReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.FoodCategories.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.FoodItemReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.FoodItemsreg.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.ItemwiseSaleReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Properties.Resources.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.sales.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.SalesDetails.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.salesReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.SalesRow.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Section.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.csproj.GenerateResource.cache
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.csproj.CoreCompileInputs.cache
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.csproj.CopyComplete
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.exe
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 7\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.pdb
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\ZBCashRegistation.exe.config
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\ZBCashRegistation.exe
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\ZBCashRegistation.pdb
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.Shared.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.Web.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\EntityFramework.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\EntityFramework.SqlServer.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\AxShockwaveFlashObjects.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\ShockwaveFlashObjects.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\stdole.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\EntityFramework.xml
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\EntityFramework.SqlServer.xml
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.csprojAssemblyReference.cache
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.AdminLogin.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Billviewer.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.cashInhandCashier.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.CashInHandReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.CustomerDetails2.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.CustomerRegistation.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.CustomerReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Dashboard.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.EmployeeRegistation.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.EmployeeReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.FoodCategories.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.FoodItemReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.FoodItemsreg.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.ItemwiseSaleReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Properties.Resources.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.sales.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.SalesDetails.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.salesReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.SalesRow.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Section.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.csproj.GenerateResource.cache
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.csproj.CoreCompileInputs.cache
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.csproj.CopyComplete
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.exe
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.pdb
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Table1Sales.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Table2Sales.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\editing\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Table3Sales.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\ZBCashRegistation.exe.config
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\ZBCashRegistation.exe
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\ZBCashRegistation.pdb
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.Shared.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.Web.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\EntityFramework.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\EntityFramework.SqlServer.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\AxShockwaveFlashObjects.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\ShockwaveFlashObjects.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\stdole.dll
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\EntityFramework.xml
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\bin\Debug\EntityFramework.SqlServer.xml
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.AdminLogin.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Billviewer.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.cashInhandCashier.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.CashInHandReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.CustomerDetails2.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.CustomerRegistation.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.CustomerReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Dashboard.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.EmployeeRegistation.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.EmployeeReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.FoodCategories.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.FoodItemReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.FoodItemsreg.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.ItemwiseSaleReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Properties.Resources.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.sales.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.SalesDetails.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.salesReportView.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.SalesRow.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Section.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Table1Sales.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Table2Sales.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.Table3Sales.resources
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.csproj.GenerateResource.cache
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.csproj.CoreCompileInputs.cache
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.csproj.CopyComplete
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.exe
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.pdb
+D:\PP\Projects\zetabrain\zetabrain web sol\Solutions\malberry\cash registry system kandy\versions\version 8\PProject\ZBCashRegistation\ZBCashRegistation\obj\Debug\ZBCashRegistation.csprojAssemblyReference.cache
